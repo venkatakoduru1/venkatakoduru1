@@ -1,16 +1,17 @@
 # Hi there! Karthik Koduru Here! 👋  
 
 🔭 I’m currently working on **Monocular Depth Estimation & Transformer-based Computer Vision Models**  
-🌱 I’m currently learning **Real-time AI Optimization & Sensor Fusion for Autonomous Systems**  
-👯 I’m looking to collaborate on **Deep Learning for Perception & Robotics Applications**  
+🌱 I’m currently learning **Real-time AI Optimization & Lightweight Neural Networks**  
+👯 I’m looking to collaborate on **Deep Learning for Perception & Computationally Efficient AI Models**  
 🤔 I’m looking for help with **Deploying AI models in embedded & compute-constrained environments**  
-💬 Ask me about **Computer Vision, Deep Learning, and Autonomous Navigation**  
-📫 How to reach me: koduru.ve@northeastern.edu
+💬 Ask me about **Computer Vision, Deep Learning, and Model Optimization**  
+📫 How to reach me: koduru.ve@northeastern.edu  
 😄 Pronouns: He/Him  
-⚡ Fun fact: I love reverse-engineering AI models to make them more efficient!  
+⚡ Fun fact: I love optimizing neural networks for real-world applications!  
 
 ## **Welcome to My Page!**  
-I'm a **Computer Vision & Robotics Engineer** passionate about **autonomous systems, AI-driven perception, and real-time deep learning applications**. I specialize in **sensor fusion, neural network optimization, and Earth observation AI**.  
+I'm a **Computer Vision & Deep Learning Engineer** passionate about **AI-driven perception, monocular depth estimation, and real-time deep learning applications**. I specialize in **transformer-based models (ViTs), neural network optimization, and efficient AI deployment**.  
+
 
 ## 🖥️ Technologies & Tools  
 
