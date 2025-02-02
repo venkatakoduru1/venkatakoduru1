@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! Karthik Koduru Here! 👋  
 
-<!--
-**venkatakoduru1/venkatakoduru1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on **Monocular Depth Estimation & Transformer-based Computer Vision Models**  
+🌱 I’m currently learning **Real-time AI Optimization & Sensor Fusion for Autonomous Systems**  
+👯 I’m looking to collaborate on **Deep Learning for Perception & Robotics Applications**  
+🤔 I’m looking for help with **Deploying AI models in embedded & compute-constrained environments**  
+💬 Ask me about **Computer Vision, Deep Learning, and Autonomous Navigation**  
+📫 How to reach me: [Your Email]  
+😄 Pronouns: He/Him  
+⚡ Fun fact: I love reverse-engineering AI models to make them more efficient!  
 
-Here are some ideas to get you started:
+## **Welcome to My Page!**  
+I'm a **Computer Vision & Robotics Engineer** passionate about **autonomous systems, AI-driven perception, and real-time deep learning applications**. I specialize in **sensor fusion, neural network optimization, and Earth observation AI**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **My Skillsets**  
+
+🚀 **Programming & Data Science:** Python, C++, Bash, MATLAB  
+🖥️ **Deep Learning & Computer Vision:** PyTorch, TensorFlow, OpenCV, Vision Transformers (ViT-S, ViT-L), DepthAnything V2  
+🤖 **Robotics & Simulation:** ROS, Gazebo, CARLA, Sensor Fusion (LiDAR, Camera, IMU)  
+☁️ **Cloud & DevOps:** Docker, Jenkins, IBM Cloud, AWS  
+
+Thanks for visiting! Feel free to connect. 😊  
