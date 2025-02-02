@@ -7,7 +7,7 @@
 💬 Ask me about **Computer Vision, Deep Learning, and Model Optimization**  
 📫 How to reach me: koduru.ve@northeastern.edu  
 😄 Pronouns: He/Him  
-⚡ Fun fact: I love optimizing neural networks for real-world applications!  
+⚡ Fun fact: I love playing Chess!
 
 ## **Welcome to My Page!**  
 I'm a **Computer Vision & Deep Learning Engineer** passionate about **AI-driven perception, monocular depth estimation, and real-time deep learning applications**. I specialize in **transformer-based models (ViTs), neural network optimization, and efficient AI deployment**.  
