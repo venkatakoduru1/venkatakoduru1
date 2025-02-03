@@ -22,8 +22,9 @@ I'm a **Computer Vision & Deep Learning Engineer** passionate about **AI-driven 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
 ![DepthAnything V2](https://img.shields.io/badge/DepthAnything%20V2-000000?style=flat)  
 ![Vision Transformers](https://img.shields.io/badge/ViT-Small-Large?style=flat&color=blue)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)  
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
 
 
 Thanks for visiting! Feel free to connect. 😊  
